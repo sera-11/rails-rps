@@ -1,3 +1,4 @@
+# app/controllers/game_controller.rb
 class GameController  < ApplicationController
   def rock
 
